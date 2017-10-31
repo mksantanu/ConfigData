@@ -8,5 +8,9 @@
 ## Steps to follow
 
 # Project Creator Details
+## Email
+### abc@xyz.com
+## Address
+### 4,lane-1,AK
 
 
